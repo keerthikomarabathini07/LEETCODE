@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
