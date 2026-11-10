@@ -24,6 +24,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
@@ -43,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -97,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 ## Dynamic Programming
