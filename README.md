@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
