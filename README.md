@@ -21,6 +21,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -91,4 +92,12 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
