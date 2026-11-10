@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0912-sort-an-array) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0344-reverse-string) |
