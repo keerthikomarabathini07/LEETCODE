@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0912-sort-an-array) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
