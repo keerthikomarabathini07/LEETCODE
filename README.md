@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0704-binary-search) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
