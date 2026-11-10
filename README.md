@@ -29,6 +29,7 @@
 | [0070-climbing-stairs](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
