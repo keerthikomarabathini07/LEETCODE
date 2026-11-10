@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0912-sort-an-array) |
 ## Math
@@ -17,6 +18,7 @@
 | [0009-palindrome-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -44,6 +47,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -73,4 +77,9 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/keerthikomarabathini07/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
